@@ -1,0 +1,4 @@
+jupyterlab >= 4.0          # all
+matplotlib >= 3.7.1        # ch04; ch06; ch07
+numpy >= 1.26, < 2.1       # dependency of several other libraries like torch and pandas
+pandas >= 2.2.1            # ch06
